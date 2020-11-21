@@ -1,6 +1,6 @@
 # Spaced repetition API!
 
-Here's the backend which serves my [Spaced Repetition Application](https://bookish-client.vercel.app/)! The backend manages endpoints that use GET, POST and DELETE CRUD methods. You can learn more about the Front End code [here](https://github.com/cabejackson/spaced-repetition)
+Here's the backend which serves my [Spaced Repetition Application](https://langly.vercel.app)! The backend manages endpoints that use GET, POST and DELETE CRUD methods. You can learn more about the Front End code [here](https://github.com/cabejackson/spaced-repetition)
 
 <!-- ## Table of Contents -->
 
